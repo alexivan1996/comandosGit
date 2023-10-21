@@ -1,0 +1,7 @@
+git init = crear un proyecto
+git add "nombre del archivo" = para guardar un  archivo en especifico
+git add .= para guardar todo los archivos
+git commit -m "nombre de tu texto" = para nonbrar el archivo
+git status = para  ver el estado de tus archivos
+git push = para subir tus archivos
+  
